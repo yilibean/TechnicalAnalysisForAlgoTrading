@@ -8,4 +8,4 @@ This repo implements several widely-used technical analysis strategies in Python
 * [Moving Average Convergence Divergence (MACD)](./macd.ipynb)
 * [Relative Strength Index (RSI)](./rsi.ipynb)
 * [Stochastic Oscillator (KD)](./so.ipynb)
-* [Bollinger Bands](./)
+* [Bollinger Bands](./bb.ipynb)
