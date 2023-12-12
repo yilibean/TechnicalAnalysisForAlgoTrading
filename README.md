@@ -10,3 +10,4 @@ This repo implements several widely-used technical analysis strategies in Python
 * [Stochastic Oscillator (KD)](./so.ipynb)
 * [Bollinger Bands](./bb.ipynb)
 * [Pivot Point](./.ipynb)
+* [Fibonacchi Retracement](./.ipynb)
