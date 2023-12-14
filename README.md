@@ -9,5 +9,5 @@ This repo implements several widely-used technical analysis strategies in Python
 * [Relative Strength Index (RSI)](./rsi.ipynb)
 * [Stochastic Oscillator (KD)](./so.ipynb)
 * [Bollinger Bands](./bb.ipynb)
-* [Pivot Point](./.ipynb)
-* [Fibonacchi Retracement](./.ipynb)
+* [Pivot Point](./pivot_point.ipynb)
+* [Fibonacchi Retracement](./fibonacci_retracement.ipynb)
